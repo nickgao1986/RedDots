@@ -1,0 +1,7 @@
+<resources>
+
+    <declare-styleable name="ButtonSelectUtil">
+        <attr name="text" format="string" />
+        <attr name="icon_left" format="reference" />
+    </declare-styleable>
+</resources>

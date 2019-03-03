@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Http测试源代码</string>
+
+    <string name="ca_rank_info_with_correct_count">恭喜你已累计答对%1$s题</string>
+    <string name="ca_all_work_done_rank_info_with_correct_count">已累计答对%1$s题\n准确率超过了%2$s的用户</string>
+    <string name="ca_rank_info_tip">明天继续答题，了解更多备孕知识</string>
+</resources>
+
