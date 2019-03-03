@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/libs/gson-2.2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
-        <dex dex="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_f12804f00bcc2e63b2f47714de66e82940fd363e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/gaoyoujian/Desktop/11/12/httpTest/app/libs/gson-2.2.4.jar"
         jumboMode="false"
         optimize="true"
@@ -57,15 +48,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/gaoyoujian/.android/build-cache/539e985064a6bc11acba2c9ed2159fa94b5aa267/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fa61569ed84bc6979e529ec7d92bb4756b1c3572">
-        <dex dex="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2200c64f82cd817b1f84045d6cf86b147669fadb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/gaoyoujian/.android/build-cache/9af848603c564b5b0850a3d6813da8ffc26a7d22/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -90,6 +72,24 @@
         revision="25.0.0"
         sha1="f7b520c458572890807d143670c9b24f4de90897">
         <dex dex="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/build/intermediates/transforms/dex/debug/folders/1000/2/joda-time-2.9.9_5331ff9e78ba86fff0f70f8fa60642534e0a056e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.4_f12804f00bcc2e63b2f47714de66e82940fd363e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gaoyoujian/.android/build-cache/539e985064a6bc11acba2c9ed2159fa94b5aa267/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa61569ed84bc6979e529ec7d92bb4756b1c3572">
+        <dex dex="/Users/gaoyoujian/Desktop/11/12/temp/13/RedDots/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2200c64f82cd817b1f84045d6cf86b147669fadb/classes.dex" />
     </item>
 
 </items>
